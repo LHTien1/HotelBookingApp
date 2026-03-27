@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCaWYtwhmPXfIYwKk6NsAbXtLaXGjtOesM',
+    apiKey: 'GROQ_API_KEY',
     appId: '1:969805668114:android:151d7b70275628b1c75dcb',
     messagingSenderId: '969805668114',
     projectId: 'booking-p2tk',
@@ -49,7 +49,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA80UVdFiHsp1Zln_UMwEAW2cusfsG1g2c',
+    apiKey: 'GROQ_API_KEY',
     appId: '1:969805668114:ios:3b3f45dcec03b1bac75dcb',
     messagingSenderId: '969805668114',
     projectId: 'booking-p2tk',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA80UVdFiHsp1Zln_UMwEAW2cusfsG1g2c',
+    apiKey: 'GROQ_API_KEY',
     appId: '1:969805668114:ios:3b3f45dcec03b1bac75dcb',
     messagingSenderId: '969805668114',
     projectId: 'booking-p2tk',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCcI7LclYQm0hD_aNTD6GK1N468Jx0Av7s',
+    apiKey: 'GROQ_API_KEY',
     appId: '1:969805668114:web:a9cd74bea3b83a07c75dcb',
     messagingSenderId: '969805668114',
     projectId: 'booking-p2tk',
