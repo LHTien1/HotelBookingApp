@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class GeminiService {
-  static const String _apiKey = 'AIzaSyDOkMNRASLqOFkPbmNfvcGV5lv_M-i_PIE';
+  static const String _apiKey = 'GROQ_API_KEY';
 
   static Future<String> sendMessage(String message) async {
     final url = Uri.parse(

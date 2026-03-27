@@ -31,7 +31,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCcI7LclYQm0hD_aNTD6GK1N468Jx0Av7s',
+    apiKey: 'GROQ_API_KEY',
     appId: '1:969805668114:web:93088c8699d38a16c75dcb',
     messagingSenderId: '969805668114',
     projectId: 'booking-p2tk',
